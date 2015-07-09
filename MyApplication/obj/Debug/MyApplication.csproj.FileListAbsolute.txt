@@ -1,0 +1,5 @@
+S:\Ashish Datir\SampleGitHub\MyApplication\MyApplication\bin\MyApplication.dll
+S:\Ashish Datir\SampleGitHub\MyApplication\MyApplication\bin\MyApplication.pdb
+S:\Ashish Datir\SampleGitHub\MyApplication\MyApplication\obj\Debug\MyApplication.csprojResolveAssemblyReference.cache
+S:\Ashish Datir\SampleGitHub\MyApplication\MyApplication\obj\Debug\MyApplication.dll
+S:\Ashish Datir\SampleGitHub\MyApplication\MyApplication\obj\Debug\MyApplication.pdb
